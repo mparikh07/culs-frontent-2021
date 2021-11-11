@@ -27,3 +27,7 @@ Omar Fatma Elzahra Omar
 # Portuguese Team
 Tiago Lameirão @TLameirao2001
 Vasco Ribeiro @VascoRR001
+
+#Group Alfa
+Meet Parikh
+Karnav Chauhan
